@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Podzorov\.metadata\.plugins\org.eclipse.jdt.core
+3731973477.index
+1865797976.index
+2547684316.index

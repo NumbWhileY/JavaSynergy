@@ -1,0 +1,18 @@
+package helloapp;
+
+
+public class Program {
+	public static void main(String[] args) {
+		int x = 12;
+		double y = 12.1;
+		double z = 11.3;
+		
+		double s = (Math.cos(x - 2/3)/0.5 + Math.sin(y*y))*(1+(z*z)/(3-z)/5);
+		
+		System.out.println(s);
+	}
+	
+	
+}
+
+

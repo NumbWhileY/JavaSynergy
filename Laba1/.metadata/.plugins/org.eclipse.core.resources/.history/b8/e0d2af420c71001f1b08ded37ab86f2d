@@ -1,0 +1,16 @@
+package helloapp;
+
+public class Program {
+	public static void notmain(String[] args) {
+		System.out.println("Hello eclipse!");
+	}
+}
+
+
+public class Program2 extends Program {
+	public static void main(String[] args) {
+		System.out.println("Hello !!!!!!!!!!!!!!!!!");
+	}
+}
+
+
